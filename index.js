@@ -70,7 +70,7 @@ function CemberinAlani(yaricap) {
   return pi * yaricap * yaricap;
 }
 
-console.log(CemberinAlani(2));
+console.log(CemberinAlani(15));
 /* (Oto test yok) Yukarıdaki CemberinAlani fonksiyonunu yarıçap = 15 vererek aşağıda çalıştırıp, sonucu konsolda gözlemleyin (console.log)  */
 
 /* 	GÖREV 3:
